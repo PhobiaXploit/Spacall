@@ -1,6 +1,13 @@
 # Spacall
 Multi Spamming Call
 
+## First Install
+```
+- curl
+- libcurl
+- git
+```
+
 ## How To Use?
 ```
 user@host~$ git clone https://github.com/PhobiaXploit/Spacall
